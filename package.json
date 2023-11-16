@@ -1,0 +1,8 @@
+{
+  "name": "Apache-Arrow-TS",
+  "packageManager": "yarn@3.6.0",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}
